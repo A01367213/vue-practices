@@ -17,7 +17,6 @@ const app = Vue.createApp({
         setTimeout(function () {
           that.counter = 0;
         }, 2000);
-        this.counter = 0;
       }
     }
     // name(value) {
